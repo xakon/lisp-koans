@@ -12,7 +12,7 @@
 ;;; See the License for the specific language governing permissions and
 ;;; limitations under the License.
 
-;;; The extended for of LOOP allows for advanced iteration.
+;;; The extended form of LOOP allows for advanced iteration.
 ;;; See http://www.gigamonkeys.com/book/loop-for-black-belts.html
 
 (define-test loop-collect
